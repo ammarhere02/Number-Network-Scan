@@ -1,0 +1,15 @@
+{
+  "name": "CALCULATOR",
+  "version": "1.0.0",
+  "description": "Handy calculator along with vpn-detection",
+  "manifest_version": 3,
+  "author": "AMMAR-KHAN",
+  "icons": {
+    "32": "Calculator.png"},
+  "action":{
+    "default_popup": "inde.html",
+    "default_title": "CALCULATOR"
+  },
+  "incognito": "spanning",
+  "short_name": "CAL"
+}
